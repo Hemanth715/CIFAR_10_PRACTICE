@@ -1,4 +1,4 @@
-# CIFAR_10_PRACTICE
+# CIFAR_10_Practice
 Practicing Convolutional Neural Networks with CIFAR 10 dataset
 
 Just a basic practice of making a Convolutional Neural Network on the CIFAR 10 dataset
